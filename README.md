@@ -1,2 +1,2 @@
 # *Badges*
-![Cisco](https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)
+[<img src="path/to/image.png">](https://link-to-your-URL/)
